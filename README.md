@@ -22,7 +22,7 @@ Supports Minecraft Forge 1.20.1
 
 If you want to build this mod from source:
 
-git clone https://github.com/yourusername/LizTools.git
+git clone https://github.com/mc-LizX/LizX-Tools
 cd LizTools
 ./gradlew build
 
