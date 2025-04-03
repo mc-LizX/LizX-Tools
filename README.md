@@ -1,6 +1,6 @@
 # LizTools
 
-LizTools is a lightweight and functional Minecraft mod developed by LizX, designed to enhance gameplay experience with practical tools and utilities.
+LizTools is a lightweight Minecraft mod developed by LizX, designed to enhance gameplay experience with practical tools and utilities.
 
 Supports Minecraft Forge 1.20.1
 
